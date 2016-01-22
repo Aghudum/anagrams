@@ -1,8 +1,26 @@
-# Anagrams
-case sensitive, treats every character equally e.g apostrophes are treated the same way as alphabets.
-I have sacrificed a bit of performance for a more SOLID code
+# Anagramator
+Anagramator is a Node.js application that lists out sets of anagrams from a text file containing words. The text file must contain a word per line.
+Anagramator is case sensitive and treats every character equally e.g apostrophes are treated the same way as alphabets.
 
-How to run
-navigate to root
+I have sacrificed a bit of performance for a more SOLID code.
+
+### Prerequisites
+You should have Node.js installed on your machine. Node.js installation can be found at found at https://nodejs.org/
+
+### How to run
+
+Clone this repository by running the command: 
+```sh
+git clone https://github.com/Aghudum/anagrams.git
+```
+navigate to root folder then run the following:
+ ```sh
 npm install
-npm install -g jasmine - globally to use the CLI tool
+node runner.js  
+```
+### Running unit tests
+On the command line run the following:
+```sh
+install -g jasmine
+jasmine
+```
