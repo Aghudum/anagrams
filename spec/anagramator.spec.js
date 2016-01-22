@@ -1,9 +1,9 @@
 const anagramator = require("../src/anagramator.js");
 
-describe("Given words which are anagrams of each other", function(){
+describe("Given an array words, some of which are anagrams of each other", function(){
 	var words;
 	beforeEach(function(){
-		words = ["kinship", "enlist", "silentpinkish", "inlets", "listen", "pinkish", "silent"];
+		words = ["kinship", "enlist", "silentpinkish", "inlets", "listen", "pinkish", "silent", "nomatch", "unique"];
 	});
 
 	describe("When they are processed", function(){
