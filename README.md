@@ -5,13 +5,8 @@ Anagramator is case sensitive and treats every character equally e.g apostrophes
 I have sacrificed a bit of performance for a more SOLID code.
 
 ### Prerequisites
-You should have Node.js v0.12.7 or later installed on your machine.
+You should have Node.js v5.0.0 or later installed on your machine.
 Node.js installation can be found at found at https://nodejs.org/.
-If you already have node installed, to find out your version run the command:
-
-```sh
-node -v
-```
 
 ### How to run
 
