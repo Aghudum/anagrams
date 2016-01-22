@@ -1,4 +1,4 @@
-const textToArray = require("../textToArray.js");
+const textToArray = require("../src/textToArray.js");
 
 describe("When a text file containing a word per line is read", function(){
 	var words;

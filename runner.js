@@ -1,5 +1,5 @@
-const textToArray = require("./textToArray.js");
-const anagramator = require("./anagramator.js");
+const textToArray = require("./src/textToArray.js");
+const anagramator = require("./src/anagramator.js");
 
 var start = new Date().getTime();
 

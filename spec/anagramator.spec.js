@@ -1,4 +1,4 @@
-const anagramator = require("../anagramator.js");
+const anagramator = require("../src/anagramator.js");
 
 describe("Given words which are anagrams of each other", function(){
 	var words;
