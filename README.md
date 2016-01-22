@@ -13,7 +13,7 @@ Clone this repository by running the command:
 ```sh
 git clone https://github.com/Aghudum/anagrams.git
 ```
-navigate to root folder then run the following:
+navigate to root folder (anagrams) then run the following:
  ```sh
 npm install
 node runner.js  
