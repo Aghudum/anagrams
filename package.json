@@ -1,0 +1,13 @@
+{
+  "name": "anagrams",
+  "version": "1.0.0",
+  "description": "Lists anagrams of words contained in a text file",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aghudum/anagrams.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+  	"lodash": "^4.0.0"
+  }
+}
